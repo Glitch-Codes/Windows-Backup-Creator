@@ -63,13 +63,16 @@ python backup.py
 #### Steps:
 1. Select which user profile folders you want to backup (common folders are selected by default)
 2. Optionally add custom folders using "Add Custom Folder" button
+   - You can use the "Scan for Non-Windows Folders" to reveal possibly wanted files on the root of your C: drive
 3. Optionally enable "Get list of installed programs" to export installed software list
 4. Optionally enable "Limit Downloads folder files to 2GB" to skip large files
 5. Click "Browse..." to select your backup destination
 6. Optionally check "Compress backup into a single ZIP file" for compressed backup
+   - Enabling compressed ZIP does not save the restorer program, you will need to download it seperately
 7. Click "Start Backup" to begin
 8. Monitor progress in the log window
-9. Save your configuration with File → Save Configuration
+9. Optionally save your configuration with File → Save Configuration
+   - Not needed unless you want to run this often
 10. Open the backup location when complete
 
 ### Restore Application
