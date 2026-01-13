@@ -20,7 +20,7 @@ A comprehensive PyQt6-based GUI application for backing up and restoring Windows
 - **Progress Tracking**: Real-time progress bar and detailed logging
 - **Threaded Operations**: Non-blocking backup process that doesn't freeze the UI
 - **Timestamped Backups**: Each backup is automatically timestamped
-- **Dark/Light Themes**: Switch between visual themes
+- **Fun Accent Colours**: Switch between visual accent colours, I like orange but you may not
 
 ### Restore Features
 - **Intelligent Restoration**: Uses backup metadata for accurate folder restoration
