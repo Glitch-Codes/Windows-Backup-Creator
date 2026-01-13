@@ -33,6 +33,12 @@ A comprehensive PyQt6-based GUI application for backing up and restoring Windows
 
 ## Installation
 
+### Running from Binary
+1. Download the latest release from the releases section or by this link: 
+   https://github.com/Glitch-Codes/Windows-Backup-Creator/releases/tag/v1.0
+2. Run WindowsBackupCreator-v#.#.exe 
+     - If prompted with Windows Smart Screen, click "More Info" and then click "Run Anyways"
+
 ### Running from Source
 1. Install Python 3.8 or higher
 2. Install dependencies:
